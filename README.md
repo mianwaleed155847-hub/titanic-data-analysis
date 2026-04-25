@@ -15,7 +15,7 @@ Data was cleaned, engineered, and visualized to uncover survival patterns.
 |------|-------------|
 | `titanic.ipynb` | Main notebook — cleaning + EDA |
 | `titanic.csv` | Raw dataset |
-| 'Titanic_cleaned.csv' | Cleaned dataset |
+| `Titanic_cleaned.csv` | Cleaned dataset |
 ---
 
 ##  Data Cleaning
